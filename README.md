@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/sumitprasad18/LCSolutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/sumitprasad18/LCSolutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitprasad18/LCSolutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/sumitprasad18/LCSolutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sumitprasad18/LCSolutions/tree/master/0485-max-consecutive-ones) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumitprasad18/LCSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sumitprasad18/LCSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sumitprasad18/LCSolutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/sumitprasad18/LCSolutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sumitprasad18/LCSolutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
