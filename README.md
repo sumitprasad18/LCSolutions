@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumitprasad18/LCSolutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sumitprasad18/LCSolutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/sumitprasad18/LCSolutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitprasad18/LCSolutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumitprasad18/LCSolutions/tree/master/0001-two-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sumitprasad18/LCSolutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
