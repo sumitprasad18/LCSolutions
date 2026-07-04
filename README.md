@@ -31,6 +31,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sumitprasad18/LCSolutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitprasad18/LCSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/sumitprasad18/LCSolutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumitprasad18/LCSolutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -55,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sumitprasad18/LCSolutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sumitprasad18/LCSolutions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
